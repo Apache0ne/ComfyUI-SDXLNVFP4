@@ -11,8 +11,8 @@ Workflow in images, also I am using taesd vae for both.
   <tr>
     <!-- Image 1 -->
     <td align="center" valign="top" style="padding: 10px;">
-      <a href="assets/ComfyUI_temp_bajmn_00003_.png" target="_blank">
-        <img src="assets/ComfyUI_temp_bajmn_00003_.png" height="120" style="border: 1px solid #444; border-radius: 4px;">
+      <a href="https://huggingface.co/ApacheOne/sdxl_text_encoders-NVFP4/blob/main/assets/ComfyUI_temp_bajmn_00003_.png" target="_blank">
+        <img src="https://huggingface.co/ApacheOne/sdxl_text_encoders-NVFP4/blob/main/assets/ComfyUI_temp_bajmn_00003_.png" height="120" style="border: 1px solid #444; border-radius: 4px;">
       </a>
       <br>
       <p style="width: 150px; word-wrap: break-word; line-height: 1.2;">
@@ -21,8 +21,8 @@ Workflow in images, also I am using taesd vae for both.
     </td>
     <!-- Image 2 -->
     <td align="center" valign="top" style="padding: 10px;">
-      <a href="assets/ComfyUI_temp_bajmn_00004_.png" target="_blank">
-        <img src="assets/ComfyUI_temp_bajmn_00004_.png" height="120" style="border: 1px solid #444; border-radius: 4px;">
+      <a href="https://huggingface.co/ApacheOne/sdxl_text_encoders-NVFP4/blob/main/assets/ComfyUI_temp_bajmn_00004_.png" target="_blank">
+        <img src="https://huggingface.co/ApacheOne/sdxl_text_encoders-NVFP4/blob/main/assets/ComfyUI_temp_bajmn_00003_.png" height="120" style="border: 1px solid #444; border-radius: 4px;">
       </a>
       <br>
       <p style="width: 150px; word-wrap: break-word; line-height: 1.2;">
